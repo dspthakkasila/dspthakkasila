@@ -94,8 +94,9 @@ https://dspthakkasila.github.io/portfolio/
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dspthakkasila&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dspthakkasila&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dspthakkasila&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dspthakkasila&theme=github_dark)
 </p>
 
 ---
